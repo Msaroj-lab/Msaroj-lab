@@ -30,7 +30,7 @@ Database:MySQL.
 ###
 Connect With ME:
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msaroj_bantai_is_live) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahesh-saroj-25942a244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saroj.mahesh2002@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msaroj_bantai_is_live) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahesh-saroj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saroj.mahesh2002@gmail.com) 
 
 
 
