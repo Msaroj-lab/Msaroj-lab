@@ -3,7 +3,7 @@
 </p>
  <h1 align="center">Hi 👋, I'm Mahesh Saroj</h1>
 <h3 align="center">A passionate Data Analysis </h3>
-- 🌱 I’m currently learning **DATA ANLYSIS**
+- 🌱 I’m currently learning DATA ANALYSIS
 
 - 📫 How to reach me **saroj.mahesh2002@gmail.com**  
  # 💫 About Me:
