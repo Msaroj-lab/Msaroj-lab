@@ -30,18 +30,15 @@ Database:MySQL.
 ###
 Connect With ME:
 ## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/mahesh-saroj">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saroj.mahesh2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/msaroj_bantai_is_live">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+<p align="center">
+    <strong>"Engineering excellence through clarity, scalability, and community-driven innovation."</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mahesh-saroj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:saroj.mahesh2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://discord.com/users/msaroj_bantai_is_live"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  </p>
 </div>
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Msaroj-lab&theme=telegram&border_radius=4.7)](https://git.io/streak-stats)
