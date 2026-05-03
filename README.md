@@ -29,20 +29,9 @@ Database:MySQL.
 
 ###
 Connect With ME:
-<div align="LEFT">
-  <a href="www.linkedin.com/in/mahesh-saroj-25942a244" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/qr/5XREN4JGUFLTE1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="t.me/mahesh_14072002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="msaroj_bantai_is_live" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msaroj_bantai_is_live) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mahesh-saroj-25942a244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saroj.mahesh2002@gmail.com) 
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Msaroj-lab&theme=telegram&border_radius=4.7)](https://git.io/streak-stats)
