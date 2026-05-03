@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saroj.mahesh2002@gmail.com**  
  # 💫 About Me:
- <img align="right" width="428" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNidmxsZzgzbnUwN3dtczQxNzZieGp5czY0cmc0ZDhvbzFkdmZtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
+ <img align="right" width="435" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNidmxsZzgzbnUwN3dtczQxNzZieGp5czY0cmc0ZDhvbzFkdmZtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
 <p align="left">
 I am Mahesh Saroj Learning Data analysis
 Core Languages: Python,DAX,
@@ -20,6 +20,8 @@ Database:MySQL.
   <i>"Eager to learn, passionate to analyze."</i>
 </p>
 
+<!-- Add as many <br> as you need for more space -->
+<br><br>
 <!-- Add as many <br> as you need for more space -->
 <br><br>
 
